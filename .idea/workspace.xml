@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6180a58b-eb6b-4dbf-8450-8d953f92d62c" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/flaskProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/cache.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp0_mnufhn/oov_words.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp0_mnufhn/vocabularies.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp1chlkxzi/feature_to_idx_dict.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.data_example.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.entity_tag_specs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.index_label_id_mapping.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.label_data.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.sparse_feature_sizes.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.tf_model.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.tf_model.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6mydinvu/featurizer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6mydinvu/rule_only_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6mydinvu/rule_policy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6wbhs2bn/oov_words.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6wbhs2bn/vocabularies.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpcgz5sxfw/patterns.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpcm2gi8ws/featurizer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpcm2gi8ws/memorized_turns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/featurizer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.data_example.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.entity_tag_specs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.fake_features.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.label_data.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.meta.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.priority.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.tf_model.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.tf_model.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/featurizer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.data_example.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.entity_tag_specs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.fake_features.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.label_data.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.label_quantiles.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.meta.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.priority.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.tf_model.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.tf_model.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/actions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/actions/actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/credentials.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/data/nlu.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/data/rules.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/data/stories.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/domain.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/endpoints.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/models/20240411-213309-online-area.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/tests/test_stories.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;searchQuery&quot;: &quot;p&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;GemimaOndele&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;p&quot;,
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GemimaOndele&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GemimaOndele/Projet_HackathonS4.git&quot;,
+    &quot;accountId&quot;: &quot;4141f155-3778-45c5-a2bb-749380eeea85&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fAnQVQodgdVXdsgtCtbERhKeHn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/wamp64/www/Projet_HackatonS4-CHATBOT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6180a58b-eb6b-4dbf-8450-8d953f92d62c" name="Changes" comment="" />
+      <created>1713252733769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713252733769</updated>
+      <workItem from="1713252734832" duration="923000" />
+      <workItem from="1713253685301" duration="527000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1713253439161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713253439161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+</project>
