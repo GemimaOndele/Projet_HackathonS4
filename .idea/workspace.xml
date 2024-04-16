@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6180a58b-eb6b-4dbf-8450-8d953f92d62c" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/flaskProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/cache.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp0_mnufhn/oov_words.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp0_mnufhn/vocabularies.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp1chlkxzi/feature_to_idx_dict.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.data_example.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.entity_tag_specs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.index_label_id_mapping.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.label_data.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.sparse_feature_sizes.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.tf_model.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/DIETClassifier.tf_model.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp459uq754/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6mydinvu/featurizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6mydinvu/rule_only_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6mydinvu/rule_policy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6wbhs2bn/oov_words.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmp6wbhs2bn/vocabularies.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpcgz5sxfw/patterns.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpcm2gi8ws/featurizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpcm2gi8ws/memorized_turns.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/featurizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.data_example.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.entity_tag_specs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.fake_features.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.label_data.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.meta.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.priority.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.tf_model.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpm8vfvbjj/ted_policy.tf_model.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/featurizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.data_example.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.entity_tag_specs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.fake_features.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.label_data.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.label_quantiles.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.meta.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.priority.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.tf_model.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/.rasa/cache/tmpupzck5mu/unexpected_intent_policy.tf_model.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/actions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/actions/actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/credentials.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/data/nlu.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/data/rules.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/data/stories.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/domain.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/endpoints.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/models/20240411-213309-online-area.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/RasaBot/tests/test_stories.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RasaFlaskWebsite-master/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RasaFlaskWebsite-master" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -144,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713252733769</updated>
       <workItem from="1713252734832" duration="923000" />
-      <workItem from="1713253685301" duration="527000" />
+      <workItem from="1713253685301" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -154,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713253439161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1713254224607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713254224607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
